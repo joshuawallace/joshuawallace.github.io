@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data science on Joshua Wallace | Astronomer</title>
-    <link>/categories/data-science/</link>
+    <link>joshuawallace.github.io/categories/data-science/</link>
     <description>Recent content in Data science on Joshua Wallace | Astronomer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/data-science/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="joshuawallace.github.io/categories/data-science/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Meeting with Friend About Nonacademic Careers</title>
-      <link>/blog/ailei/</link>
+      <link>joshuawallace.github.io/blog/ailei/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/blog/ailei/</guid>
+      <guid>joshuawallace.github.io/blog/ailei/</guid>
       <description>Yesterday, a graduate alumna of my department, Ai-Lei Sun, hosted a meeting with graduate students and postdocs in my department, talking about her transition from a postdoc to a nonacademic job. She was visiting campus for reunion weekend and was kind enough to offer to do this. As background for her, she graduated with her Ph.D. two years ago and has been pursuing postdoc work since then. She was sought out by the company Orbital Insight with whom she had had some contact in years past and decided to transition out of academia and work for them.</description>
     </item>
     
     <item>
       <title>Job Shadowing at DataCamp</title>
-      <link>/blog/datacamp/</link>
+      <link>joshuawallace.github.io/blog/datacamp/</link>
       <pubDate>Sat, 26 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/blog/datacamp/</guid>
+      <guid>joshuawallace.github.io/blog/datacamp/</guid>
       <description>The astrophysics academic job application cycle starts soon and my preparations, should I apply for academic jobs, need to start now. Because of this, I&amp;rsquo;ve been considering one last time whether I want to pursue an academic job before I close that door forever. Just in time for this, I had the opportunity to job shadow at a data science company through Princeton&amp;rsquo;s new &amp;ldquo;Take a Ph.D. to Work&amp;rdquo; Program.</description>
     </item>
     
