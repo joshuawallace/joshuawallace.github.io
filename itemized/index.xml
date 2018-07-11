@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Itemized on Joshua Wallace | Astronomer</title>
-    <link>http://joshuawallace.github.io/itemized/</link>
+    <link>/itemized/</link>
     <description>Recent content in Itemized on Joshua Wallace | Astronomer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 05 Oct 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://joshuawallace.github.io/itemized/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/itemized/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Collisional Fragmentation is Not a Barrier to Close-in Planet Formation</title>
-      <link>http://joshuawallace.github.io/itemized/collision_paper/</link>
+      <link>/itemized/collision_paper/</link>
       <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://joshuawallace.github.io/itemized/collision_paper/</guid>
+      <guid>/itemized/collision_paper/</guid>
       <description>Article Description The final stage of rocky planet formation involves giant impacts between planet-sized bodies. For planets in regions around where Mercury, Venus, Earth, and Mars are in our solar system, it has previously been shown that such collisions, while epic, are still of sufficiently low velocity to allow for mergers to dominate over fragmentation and thus for planets to be able to form. In this paper, we show analytically that, depending on the exact value of some parameters, this may or may not be the case for regions very close to stars (much closer than Mercury is to the Sun), though the values we think are correct show that planet formation is possible.</description>
     </item>
     
     <item>
       <title>Acing the Grad School Application</title>
-      <link>http://joshuawallace.github.io/itemized/ebook/</link>
+      <link>/itemized/ebook/</link>
       <pubDate>Sat, 05 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://joshuawallace.github.io/itemized/ebook/</guid>
+      <guid>/itemized/ebook/</guid>
       <description>Book&amp;rsquo;s Description You’re ready to apply to graduate school. You’ve worked hard to prepare yourself to realize your dream of being a graduate student, but how can you make sure to produce a winning application that will help you realize this dream? Acing the Grad School Application has everything you need to help you produce the best application possible.</description>
     </item>
     
     <item>
       <title>Detecting the Supernova Breakout Burst in Terrestrial Neutrino Detectors</title>
-      <link>http://joshuawallace.github.io/itemized/sn_paper/</link>
+      <link>/itemized/sn_paper/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://joshuawallace.github.io/itemized/sn_paper/</guid>
+      <guid>/itemized/sn_paper/</guid>
       <description>Article Description Core-collapse supernovae are profuse emitters of tiny particles called neutrinos. We calculate how well neutrino detectors on Earth would be able to detect a specific feature in the neutrino emission from a nearby supernova, the &amp;ldquo;breakout burst.&amp;rdquo; For this project, I created a Monte Carlo code to simulate detection of the breakout burst across a variety of neutrino detector types and at a variety of supernova distances.</description>
     </item>
     
     <item>
       <title>Detecting the Supernova Breakout Burst in Terrestrial Neutrino Detectors</title>
-      <link>http://joshuawallace.github.io/itemized/anisotropy_paper/</link>
+      <link>/itemized/anisotropy_paper/</link>
       <pubDate>Tue, 30 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://joshuawallace.github.io/itemized/anisotropy_paper/</guid>
+      <guid>/itemized/anisotropy_paper/</guid>
       <description>Article Description For my undergraduate thesis, I investigated how Lyman-alpha emission is affected by and correlated with the environment from which it is emitting. We used a Monte Carlo radiative transfer code and basic prescriptions of anisotropy in a gas cloud&amp;rsquo;s density and/or velocity and then analyzed how these environmental anisotropies affected the emission strength and frequency of the Lyman-alpha photons.</description>
     </item>
     

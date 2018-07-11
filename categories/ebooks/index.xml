@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EBooks on Joshua Wallace | Astronomer</title>
-    <link>http://joshuawallace.github.io/categories/ebooks/</link>
+    <link>/categories/ebooks/</link>
     <description>Recent content in EBooks on Joshua Wallace | Astronomer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Mar 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://joshuawallace.github.io/categories/ebooks/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/ebooks/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Acing the Grad School Application</title>
-      <link>http://joshuawallace.github.io/itemized/ebook/</link>
+      <link>/itemized/ebook/</link>
       <pubDate>Sat, 05 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://joshuawallace.github.io/itemized/ebook/</guid>
+      <guid>/itemized/ebook/</guid>
       <description>Book&amp;rsquo;s Description You’re ready to apply to graduate school. You’ve worked hard to prepare yourself to realize your dream of being a graduate student, but how can you make sure to produce a winning application that will help you realize this dream? Acing the Grad School Application has everything you need to help you produce the best application possible.</description>
     </item>
     

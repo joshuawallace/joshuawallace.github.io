@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Joshua Wallace | Astronomer</title>
-    <link>http://joshuawallace.github.io/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Joshua Wallace | Astronomer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://joshuawallace.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Career exploration</title>
-      <link>http://joshuawallace.github.io/categories/career-exploration/</link>
+      <link>/categories/career-exploration/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://joshuawallace.github.io/categories/career-exploration/</guid>
+      <guid>/categories/career-exploration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data science</title>
-      <link>http://joshuawallace.github.io/categories/data-science/</link>
+      <link>/categories/data-science/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://joshuawallace.github.io/categories/data-science/</guid>
+      <guid>/categories/data-science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>EBooks</title>
-      <link>http://joshuawallace.github.io/categories/ebooks/</link>
+      <link>/categories/ebooks/</link>
       <pubDate>Sat, 05 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://joshuawallace.github.io/categories/ebooks/</guid>
+      <guid>/categories/ebooks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine learning</title>
-      <link>http://joshuawallace.github.io/categories/machine-learning/</link>
+      <link>/categories/machine-learning/</link>
       <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://joshuawallace.github.io/categories/machine-learning/</guid>
+      <guid>/categories/machine-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>http://joshuawallace.github.io/categories/research/</link>
+      <link>/categories/research/</link>
       <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://joshuawallace.github.io/categories/research/</guid>
+      <guid>/categories/research/</guid>
       <description></description>
     </item>
     
